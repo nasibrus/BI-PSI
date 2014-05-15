@@ -1,0 +1,5 @@
+Download : 
+java -jar robot.jar baryk.fit.cvut.cz 4000
+
+Upload:
+java -jar robot.jar baryk.fit.cvut.cz 4000 name_of_firmaware
